@@ -3,6 +3,10 @@
 This document contains advanced detection and analysis answers based on Sysmon, Winlogbeat, ELK Stack, and Threat Hunting techniques used in APT simulations.
 
 ---
+## Objective
+ Objective:
+ To simulate complex attack scenarios mimicking Advanced Persistent Threats (APT) and train
+ candidates to detect, analyze, and respond using a layered defense strategy
 
 ## 1. Detecting Fileless Malware with Sysmon/Winlogbeat
 
