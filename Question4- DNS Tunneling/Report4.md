@@ -39,14 +39,6 @@ winlog.event_id:3 AND dns.question.name.keyword: "*.*"
 dns.question.name.keyword: /[a-z0-9]{30,}\./
 ```
 
----
-
-## 📘 Sigma Rule
-
-[DNS Tunneling Detection](https://github.com/SigmaHQ/sigma/blob/master/rules/network/dns/snort_apt_dns_tunneling.yml)
-
----
-
 ## 🛡️ Mitigation
 
 - Block long or unknown DNS domains.
