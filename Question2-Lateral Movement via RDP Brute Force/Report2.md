@@ -43,13 +43,6 @@ winlog.event_id:4625
 winlog.event_data.TargetUserName:"Administrator"
 ```
 
----
-
-## 📘 Sigma Rule
-
-[RDP Brute Force](https://github.com/SigmaHQ/sigma/blob/master/rules/windows/builtin/security/win_brute_force_rdp.yml)
-
----
 
 ## 🛡️ Mitigation
 
